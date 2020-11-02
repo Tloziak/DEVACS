@@ -1,3 +1,7 @@
 This is second file in this project!!!
 I´m so excited :)
+
 This modification is done from working directory in order to create merge conflict. WINDOWS
+
+This modification is done on github in order to create merge conflict. GITHUB
+
